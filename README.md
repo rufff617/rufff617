@@ -1,6 +1,6 @@
 
 
-#Welcome to my GitHub profile!#
+Welcome to my GitHub profile!
 
 I'm based in Canada and currently beginning my journey into **cybersecurity**. I'm passionate about learning how to protect systems, networks, and data while developing the skills needed to build a career in the cybersecurity industry.
 
