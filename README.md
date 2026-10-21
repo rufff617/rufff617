@@ -1,6 +1,6 @@
-# 👋 Hi, I'm an Aspiring Cybersecurity Professional 🇨🇦
 
-Welcome to my GitHub profile!
+
+#Welcome to my GitHub profile!#
 
 I'm based in Canada and currently beginning my journey into **cybersecurity**. I'm passionate about learning how to protect systems, networks, and data while developing the skills needed to build a career in the cybersecurity industry.
 
@@ -10,7 +10,7 @@ I'm based in Canada and currently beginning my journey into **cybersecurity**. I
 - Networking and Linux 
 - Security tools and labs
 - Cybersecurity best practices
-- comptia security+ certification
+- CompTIA Security+ certification
 
 📂 **What You'll Find Here**
 
